@@ -16,41 +16,48 @@ This project involves analyzing customer data for a subscription service to iden
 CustomerData Analysis:
 
 - Identify revenue trends by region and subscription type.
-                Row Labels	 Sum of Revenue 
-                  Basic	     £74,756,784.00 
-                  East	     £37,387,894.00 
-                  North	     £37,368,890.00 
-                  Premium	   £37,580,782.00 
-                  South	     £37,580,782.00 
-                  Standard	 £37,482,120.00 
-                  West	     £37,482,120.00 
-                Grand Total	 £149,819,686.00 
+  
+                Row Labels	Sum of Revenue 
+                  Basic	     	£74,756,784.00 
+                  East	     	£37,387,894.00 
+                  North	     	£37,368,890.00 
+                  Premium	£37,580,782.00 
+                  South	     	£37,580,782.00 
+                  Standard	£37,482,120.00 
+                  West	     	£37,482,120.00 
+                Grand Total	£149,819,686.00
+  
 ![image](https://github.com/user-attachments/assets/cd8c3c06-0ed5-4a2b-aea0-ecbde91a50bf)
 ![image](https://github.com/user-attachments/assets/6890f2a7-3d10-4eee-95fe-fc0ca65dbd64)
 
 
 -Analyze churn rates (percentage of customers who canceled subscriptions).
+
                 Row Labels	Count of CustomerID
                   FALSE	        55.00%
                   TRUE	        45.00%
-                Grand Total	    100.00%
+                Grand Total	100.00%
+		
 ![image](https://github.com/user-attachments/assets/9fc24d4c-3764-4461-8ffc-eeef7f040220)
 ![image](https://github.com/user-attachments/assets/59622bf3-84e5-480c-9219-c9f2456c2653)
 
 -Distribution of revenue across regions and subscription types.
-                  Row Labels	 Sum of Revenue 
+
+                  Row Labels	     Sum of Revenue 
                     Basic	     £74,756,784.00 
                     East	     £37,387,894.00 
                     North	     £37,368,890.00 
-                    Premium	   £37,580,782.00 
+                    Premium	     £37,580,782.00 
                     South	     £37,580,782.00 
-                    Standard	 £37,482,120.00 
+                    Standard	     £37,482,120.00 
                     West	     £37,482,120.00 
-                  Grand Total	 £149,819,686.00 
+                  Grand Total	     £149,819,686.00 
+		  
 ![image](https://github.com/user-attachments/assets/883b1c89-bcec-4a98-8122-31f0ed0f35a8)
 ![image](https://github.com/user-attachments/assets/22d91316-f9c6-4f3b-a7ab-df5e07fd01c9)
 
 -Distribution of Monthly Revenue
+
           Row Labels	Sum of Revenue
               Jan	    14,915,518
               Feb	    15,037,502
@@ -64,11 +71,13 @@ CustomerData Analysis:
               Oct	     7,464,975
               Nov	     7,500,430
               Dec	     7,499,833
-          Grand Total	149,819,686
+          Grand Total	   149,819,686
+	  
 ![image](https://github.com/user-attachments/assets/f500cfc1-1d26-418f-9974-6c56e4cd0065)
 ![image](https://github.com/user-attachments/assets/0d847190-e4d3-4873-a66e-c589536563f7)
 
 -Distribution of Revenue by Customer
+
               Row Labels	 Sum of Revenue 
                 218	       £7,560,654.00 
                 202	       £7,546,272.00 
@@ -91,6 +100,7 @@ CustomerData Analysis:
                 213	       £7,441,984.00 
                 215	       £7,402,056.00 
               Grand Total	 £149,819,686.00 
+	      
 ![image](https://github.com/user-attachments/assets/ae7cf553-f343-4920-ae51-ef589cf2669e)
 
 ![image](https://github.com/user-attachments/assets/51c73742-7ad0-474a-b958-2f76bc36ba68)
