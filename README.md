@@ -107,7 +107,23 @@ CustomerData Analysis:
 
 ### Dashboard 
 - ![Dashboard2](https://github.com/user-attachments/assets/2d9fd0c2-62db-427c-b342-e997af01f3a1)
-																									
+
+## Key Findings from CustomerData Analysis:
+### General Insights:
+
+- Total Customers: 75,000
+- Average Revenue per Customer: 1,997.60
+- Revenue Range: From 1,000 to 3,000
+
+### Revenue Distribution:
+- By Region:
+  South leads with the highest revenue of 37.58M, followed by West (37.48M), East (37.39M), and North (37.37M).
+- By Subscription Type:
+  Basic subscriptions contribute the most revenue at 74.76M, followed by Premium (37.58M) and Standard (37.48M).
+- Churn Rate:
+45% of customers have canceled their subscriptions, which is significant and requires attention to reduce churn.
+- Revenue Trends Over Time:
+Steady monthly revenue with slight fluctuations. The latest months show consistent revenue levels, with August 2023 generating approximately 7.52M.													
 																												
 																												
 																												
