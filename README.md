@@ -105,7 +105,8 @@ CustomerData Analysis:
 
 ![image](https://github.com/user-attachments/assets/51c73742-7ad0-474a-b958-2f76bc36ba68)
 
-Dashboard - ![Dashboard2](https://github.com/user-attachments/assets/2d9fd0c2-62db-427c-b342-e997af01f3a1)
+### Dashboard 
+- ![Dashboard2](https://github.com/user-attachments/assets/2d9fd0c2-62db-427c-b342-e997af01f3a1)
 																									
 																												
 																												
